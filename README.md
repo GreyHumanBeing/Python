@@ -1,3 +1,3 @@
 # Python
-Mis programas creados con Python. 
-Sebatian Arellano.
+# Mis programas creados con Python. 
+# Sebastian Arellano.
