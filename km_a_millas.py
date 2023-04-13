@@ -1,5 +1,4 @@
 from tkinter import *
-from tkinter import Entry
 
 
 def convertir_km_millas():
